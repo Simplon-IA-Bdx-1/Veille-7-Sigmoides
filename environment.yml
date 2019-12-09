@@ -1,0 +1,9 @@
+name: veille-sigmoides
+dependencies:
+    - ipykernel
+    - jupyter
+    - matplotlib
+    - numpy
+    - python=3.7
+    - scipy
+    - sympy
